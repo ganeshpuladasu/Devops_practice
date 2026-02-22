@@ -1,2 +1,3 @@
 This is the devops file
 showing in the jenkins class 1 regarding the integratiion github with jenkins.
+Added webhooks to the jenkins, this will help you to trigger the build atomatically when ever the new commit is happened into that branch(main).
