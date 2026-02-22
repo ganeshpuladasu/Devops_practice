@@ -2,4 +2,4 @@ This is the devops file
 showing in the jenkins class 1 regarding the integratiion github with jenkins.
 Added webhooks to the jenkins, this will help you to trigger the build atomatically when ever the new commit is happened into that branch(main).
 Integrated the POLLSCM also, it will help to run the build on ascheduled time if there is any commits happen. pls make sure that the time zone is asia/kolkata if you want to point to indian time.
-updated time
+updated  indian timeZone
